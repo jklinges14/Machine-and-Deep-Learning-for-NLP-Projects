@@ -1,7 +1,5 @@
 # Machine-and-Deep-Learning-for-NLP-Projects
 
-AI Machine learning Deep learning Computer vision NLP Projects with code
-
 1	180 Machine learning Project	is.gd/MLtyGk
 
 2	12 Machine learning Object Detection	is.gd/jZMP1A
