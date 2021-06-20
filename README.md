@@ -1,9 +1,5 @@
 # NLP_coin_sentiment_analysis
-Conceptual application of natural language processing to understand the sentiment in the latest news articles featuring Bitcoin and Ethereum.  Completed as homework for the Rice University Bootcamp.
-
-# Unit 12—Tales from the Crypto
-
-![Stock Sentiment](Images/sentimental.jpeg)  ![Stock Sentiment](Images/sentimental.jpeg)
+Conceptual application of natural language processing to understand the sentiment in the latest news articles featuring Bitcoin and Ethereum.  
 
 ## Background
 
